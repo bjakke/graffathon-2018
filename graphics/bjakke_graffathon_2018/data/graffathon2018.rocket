@@ -1,0 +1,30 @@
+<sync rows="1300">
+	<tracks>
+		<track name="scene">
+			<key value="0" row="0" interpolation="0"/>
+			<key value="1" row="128" interpolation="0"/>
+			<key value="2" row="256" interpolation="0"/>
+			<key value="3" row="448" interpolation="0"/>
+			<key value="4" row="576" interpolation="0"/>
+			<key value="5" row="832" interpolation="0"/>
+			<key value="6" row="1104" interpolation="0"/>
+		</track>
+		<track name="scene1Time">
+			<key value="0" row="128" interpolation="2"/>
+			<key value="7" row="256" interpolation="0"/>
+		</track>
+		<track name="scene2Time">
+			<key value="0" row="256" interpolation="2"/>
+			<key value="360" row="448" interpolation="0"/>
+		</track>
+		<track name="scene3Time">
+			<key value="0" row="448" interpolation="3"/>
+			<key value="360" row="576" interpolation="0"/>
+		</track>
+		<track name="scene5Time">
+			<key value="0" row="832" interpolation="3"/>
+			<key value="1" row="1080" interpolation="0"/>
+		</track>
+	</tracks>
+	<bookmarks/>
+</sync>
