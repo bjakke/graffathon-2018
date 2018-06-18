@@ -1,2 +1,19 @@
 = Graffathon 2018
 
+My entry "Debuggaajan yö" in http://www.graffathon.fi/2018/ Advanced compo 
+
+Music made with LMMS (https://lmms.io/)
+
+Graphics made with Processing (https://processing.org/)
+
+Processing needs to have the following libraries installed to run
+* Minim (available directly in Add Libraries in Processing)
+* Moonlander (manual install, https://github.com/anttihirvonen/moonlander)
+
+Code is as-is from the event, might not be pretty :)
+
+== License
+Contents of this repo is Public Domain, http://unlicense.org/.
+
+
+
