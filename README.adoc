@@ -7,6 +7,7 @@ Music made with LMMS (https://lmms.io/)
 Graphics made with Processing (https://processing.org/)
 
 Processing needs to have the following libraries installed to run
+
 * Minim (available directly in Add Libraries in Processing)
 * Moonlander (manual install, https://github.com/anttihirvonen/moonlander)
 
